@@ -1,4 +1,4 @@
-# dailyfresh
+# 毕业设计-天天生鲜Django后端 Vue前端
 
 ## Project setup
 ```
